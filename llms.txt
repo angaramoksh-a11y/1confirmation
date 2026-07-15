@@ -1,0 +1,31 @@
+# 1confirmation
+
+> 1confirmation is an early-stage crypto venture fund founded in 2017 by Nick Tomaino, based in Palo Alto, California. It manages $1B+ in assets across three funds and has made 82+ investments in open networks, with a distinctive focus on digital art, culture and consumer crypto. Thesis: "Open networks are empowering the masses."
+
+## Key facts
+
+- Founded: 2017 by Nick Tomaino (early Coinbase employee; Forbes Midas List #9, Seed, 2022)
+- General Partner: Richard Chen, creator of Cryptoart.io (the crypto-art data platform that tracked a $2B+ market)
+- Assets under management: $1B+ across Fund I ($26M, 2017), Fund II (~$60M) and Fund III ($125M, 2021)
+- Investments: 82+ since 2017, with 19+ exits
+- Backers (LPs): Peter Thiel, Marc Andreessen, Mark Cuban, Balaji Srinivasan, Brendan Eich, Chris Dixon
+- Notable portfolio: OpenSea, Coinbase, dYdX, Polymarket, SuperRare, Farcaster, Worldcoin, Cosmos, Polkadot, MakerDAO
+- Digital-art positions made before NFTs were mainstream: CryptoPunks, Beeple, Pak, Meebits
+- Team: ~6 people across 3 continents; Registered Investment Adviser
+- Mission: Supporting exceptional founders fueling the decentralization of the web and society
+- Location: 459 Hamilton Avenue, Palo Alto, California
+
+## Pages
+
+- [Home](https://www.1confirmation.com/): Thesis and featured works
+- [Portfolio](https://www.1confirmation.com/portfolio): The full visual gallery of 82+ investments, filterable by category
+- [The Collection](https://www.1confirmation.com/collection): The fund's crypto-art identity — CryptoPunks, Beeple, Pak, Meebits, SuperRare — and Cryptoart.io
+- [Writing](https://www.1confirmation.com/writing): Essays by Nick Tomaino (thecontrol.co) and the firm
+- [Team](https://www.1confirmation.com/team): Nick Tomaino, Richard Chen, the firm story, and contact
+
+## Contact
+
+- Twitter/X: https://twitter.com/1confirmation
+- Nick Tomaino: https://twitter.com/NTmoney
+- Writing: https://thecontrol.co
+- Crypto-art data: https://cryptoart.io
